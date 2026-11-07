@@ -1,0 +1,16 @@
+--- synthetic_bias_A ---
+sense codons : 60
+stop codons  : 1   skipped (ambiguous) : 0   leftover bases : 0
+GC           : 0.393   GC1 0.600  GC2 0.350  GC3 0.250
+Nc (Wright)  : 20.00
+--- synthetic_bias_B ---
+sense codons : 20
+stop codons  : 1   skipped (ambiguous) : 0   leftover bases : 0
+GC           : 0.603   GC1 0.550  GC2 0.450  GC3 0.850
+Nc (Wright)  : 20.00
+--- GLOBAL (pooled, 2 sequences) ---
+sense codons : 80
+stop codons  : 2   skipped (ambiguous) : 0   leftover bases : 0
+GC           : 0.447   GC1 0.588  GC2 0.375  GC3 0.400
+Nc (Wright)  : 35.90
+tables written to examples/ (codon_table.txt, codon_table.csv, rscu_chart.txt)
